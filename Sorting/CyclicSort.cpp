@@ -38,3 +38,6 @@ int main(int argc, char const *argv[])
 
 
 // Questions related to this
+// https://leetcode.com/discuss/study-guide/2958275/cyclic-sort-important-pattern
+// 1. https://leetcode.com/problems/missing-number/
+// 2. https://leetcode.com/problems/first-missing-positive/ (VVVV Imp.)
